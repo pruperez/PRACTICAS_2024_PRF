@@ -1,1 +1,1 @@
-# Higuchis_Fractal_Dimension
+# PRACTICAS NEUROIMAGEN - PATRICIA RUPEREZ
