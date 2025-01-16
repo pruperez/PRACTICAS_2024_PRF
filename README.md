@@ -1,1 +1,1 @@
-# PRACTICAS NEUROIMAGEN - PATRICIA RUPEREZ
+# Neuroimaging Internship, Instituto Cajal - PATRICIA RUPEREZ
